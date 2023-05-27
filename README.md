@@ -3,8 +3,8 @@
 
 ## Demo
 
-```ruby
-```mct.rb mts 0100100001100101011011000110110001101111
+```bash
+    $ mct.rb mts 0100100001100101011011000110110001101111
 ```
 
 ## Authors
@@ -16,7 +16,7 @@
 You can install my app with git!
 
 ```bash
-    git clone "https://github.com/setscript/mcTranslater"
+    $ git clone "https://github.com/setscript/mcTranslater"
 ```
 ## License
 
